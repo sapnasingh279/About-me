@@ -29,7 +29,7 @@
 - 👯 **Looking to Collaborate:** Data science and Open Source projects.  
 - 🌱 **Currently Learning:** AWS and CI/CD pipelines.  
 - 💬 **Ask Me About:** Data science.  
-- 📫 **Contact Me:** abuzar.manazir9639@gmail.com
+- 📫 **Contact Me:** sapna.mail279@gmail.com
 - ⚡ **Fun Fact:** Data is new oil
 
 ---
