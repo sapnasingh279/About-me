@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Sapna</h1>
+<h1 align="center">👋 Hello, I'm Md Abuzar Manazir</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mdabuzarmanazir" target="_blank">
@@ -29,7 +29,7 @@
 - 👯 **Looking to Collaborate:** Data science and Open Source projects.  
 - 🌱 **Currently Learning:** AWS and CI/CD pipelines.  
 - 💬 **Ask Me About:** Data science.  
-- 📫 **Contact Me:** sapna.mail279@gmail.com
+- 📫 **Contact Me:** abuzar.manazir9639@gmail.com
 - ⚡ **Fun Fact:** Data is new oil
 
 ---
